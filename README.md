@@ -1,5 +1,5 @@
 # hello-world
-Hello, GitHub
+Hello, GitHub!
 
 
-Maria in the Wonderland.
+Alex and Alice in the Wonderland.
